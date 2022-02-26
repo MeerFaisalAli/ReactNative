@@ -1,5 +1,5 @@
 console.log("Hello");
-//alert("Hello This is HIFSA");
+//alert("Hello This is Faisal");
 
 //Variables
 var b = 'smoothie';
